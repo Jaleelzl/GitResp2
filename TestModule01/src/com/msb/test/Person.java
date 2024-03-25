@@ -7,5 +7,6 @@ public class Person {
     private int abc;
 	private int def;
 	private String account;
+	private String name;
 
 }
