@@ -5,5 +5,6 @@ public class Person {
     private double weight;
     private double height;
     private int abc;
+	private int def;
 
 }
